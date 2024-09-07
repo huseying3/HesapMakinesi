@@ -20,11 +20,10 @@ _   ___       __   ____     __
  / _  / // / _ \/_  _/ __/  '_/ -_) __/
 /____/\_, /_//_/ /_/ \__/_/\_\\__/_/
      /___/     
->>>>> Coded By H4cker <<<<<<
+>>>>> Coded By Huseyin <<<<<<
 
-|> Instagram = byh4cker
-|> YouTube = By H4cker
-|> WebSite = https://www.byh4cker.com/
+|> GitHub = byh4cker
+
 """
 print(banner)
 print("Hesap Makinesi Sürüm = 1.0")
